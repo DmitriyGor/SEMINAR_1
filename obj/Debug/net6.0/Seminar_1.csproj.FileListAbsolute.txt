@@ -1,0 +1,15 @@
+F:\GeekBrains\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.exe
+F:\GeekBrains\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.deps.json
+F:\GeekBrains\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.runtimeconfig.json
+F:\GeekBrains\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.dll
+F:\GeekBrains\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.pdb
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.AssemblyReference.cache
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfoInputs.cache
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfo.cs
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.CoreCompileInputs.cache
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.dll
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\refint\Seminar_1.dll
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.pdb
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.genruntimeconfig.cache
+F:\GeekBrains\C#\Seminar_1\obj\Debug\net6.0\ref\Seminar_1.dll
